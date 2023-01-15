@@ -1,4 +1,4 @@
-# Pam Qian 2016 Fall CS 112 Python Midterm Project II
+
 # Tic Tack Toe 
 
 def main():
