@@ -1,5 +1,5 @@
 
-# Tic Tack Toe 
+# Tic Tack Toe  ofek avgodor
 
 def main():
 # The main function
